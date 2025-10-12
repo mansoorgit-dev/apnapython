@@ -1,3 +1,2 @@
-erfrefer
-this nis my first repositary
+this is my first git repositary.
 author-mansoor aliee
